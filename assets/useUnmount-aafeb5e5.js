@@ -1,0 +1,1 @@
+import{r}from"./index-ae48b77e.js";import{u as n}from"./useEffectOnce-1e821488.js";const t=function(t){var e=r.useRef(t);e.current=t,n((function(){return function(){return e.current()}}))};export{t as u};
